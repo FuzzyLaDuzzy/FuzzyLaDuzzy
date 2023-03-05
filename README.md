@@ -2,7 +2,7 @@
 
 :white_heart:**Programming Engineer (Software Developer/ Math Learner)**:white_heart:
 
-Hi! My name is Flávio Silva, mostly known as FuzzyMind nad im a Software Engineer Student at University of Minho located at Braga,Portugal. I study various languages including C,Java,HTML and JS and i specialize in frontend coding.
+Hi! My name is Flávio Silva, mostly known as FuzzyMind and im a Software Engineer Student at University of Minho located at Braga,Portugal. I study various languages including C,Java,HTML and JS and i specialize in frontend coding.
 Ive recently been wanting to learn new languages in my free time like Elixir,Ruby and even SQL, becouse im just eagered to learn new stuff and excited to study them to their fullest.
 
 :speech_balloon: Im looking for help in various languages, mostly due to the fact i have some problems starting in certain projects so pls be gentle whit me on that.
