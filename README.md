@@ -12,6 +12,8 @@ Ive recently been wanting to learn new languages in my free time like Elixir,Rub
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuzzyladuzzy&show_icons=true&locale=en&layout=compact" alt="fuzzyladuzzy" /></p>
 
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuzzyladuzzy" alt="fuzzyladuzzy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
