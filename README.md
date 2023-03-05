@@ -9,8 +9,7 @@ Ive recently been wanting to learn new languages in my free time like Elixir,Rub
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuzzyladuzzy&show_icons=true&locale=en" alt="fuzzyladuzzy" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuzzyladuzzy&show_icons=true&locale=en&layout=compact" alt="fuzzyladuzzy" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuzzyladuzzy&show_icons=true&locale=en&layout=compact" alt="fuzzyladuzzy" /></p>
 
 
 
