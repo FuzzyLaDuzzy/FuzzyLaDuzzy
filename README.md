@@ -16,7 +16,6 @@ Ive recently been wanting to learn new languages in my free time like Elixir,Rub
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/silvaflavio820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="silvaflavio820" height="30" width="40" /></a>
 <a href="https://instagram.com/flavios.silva.dmwm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flavios.silva.dmwm" height="30" width="40" /></a>
 <a href="https://discord.gg/Fuzzy Mind#0861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fuzzy Mind#0861" height="30" width="40" /></a>
 </p>
