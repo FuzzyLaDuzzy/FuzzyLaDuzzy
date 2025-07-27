@@ -1,4 +1,4 @@
-# :black_heart: FuzzyLaDuzzy / FuzzyMind :black_heart:
+# :black_heart: Flávio Silva :black_heart:
 
 :white_heart:**Programming Engineer (Software Developer/ Math Learner)**:white_heart:
 
