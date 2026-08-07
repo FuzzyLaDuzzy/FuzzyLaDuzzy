@@ -2,15 +2,7 @@
 
 :white_heart:**Programming Engineer (Software Developer)**:white_heart:
 
-Hi! My name is Flávio Silva, mostly known as FuzzyMind and im a Software Engineer Student at University of Minho located at Braga,Portugal. I study various languages including C,Java,HTML and JS and im currently learning both frontend and backend languages.
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuzzyladuzzy&show_icons=true&locale=en" alt="fuzzyladuzzy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuzzyladuzzy&show_icons=true&locale=en&layout=compact" alt="fuzzyladuzzy" /></p>
-
-
-
+Hi! My name is Flávio Silva, mostly known as FuzzyMind and im a Software Engineer Student at University of Minho located at Braga,Portugal. I study various languages including C, Haskell, JavaScript, Python, Vue.js, SQL and im currently learning both frontend and backend languages.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
